@@ -12,7 +12,7 @@ conn = psycopg2.connect(
     host="localhost",
     database="productivity_db",
     user="postgres",
-    password="postgres"  # <-- replace this with your PostgreSQL password
+    password="xyz"  # <-- replace this with your PostgreSQL password
 )
 cur = conn.cursor()
 
@@ -156,3 +156,4 @@ def history(user_id):
 # ----------------------------
 if __name__ == "__main__":
     app.run(debug=True)
+
