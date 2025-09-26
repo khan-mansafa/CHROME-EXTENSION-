@@ -13,7 +13,7 @@ DURATION: 4 WEEKS
 MENTOR: NEELA SANTOSH
 
 📊 Productivity Tracker
-📌 Project Overview
+
 
 The Productivity Tracker is a full-stack web application designed to monitor and analyze online activity by categorizing time into productive and unproductive segments. In today’s digital era, distractions are abundant, and managing time effectively is a challenge. This project addresses that challenge by providing users with detailed insights into their daily and weekly activities through an intuitive dashboard and interactive charts.
 
@@ -91,3 +91,15 @@ Tooltips and legends enhance graph readability.
 The Productivity Tracker is more than just a timer—it is a personalized analytics system for time management. By combining React, Flask, Recharts, and Tailwind CSS, the project delivers a smooth, modern, and functional tool for improving productivity. Whether for students keeping track of study habits or professionals monitoring work efficiency, this solution provides actionable insights for better digital discipline.
 
 OUTPUT: 
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/5e22e64a-24b9-470c-9c59-32de62f1f36f" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/bf582389-4eb3-4f76-ad85-48e5548453fe" />
+
+<img width="1919" height="678" alt="Image" src="https://github.com/user-attachments/assets/6125c05a-8b9d-42ab-bb13-1fdd86ec710b" />
+
+<img width="956" height="362" alt="Image" src="https://github.com/user-attachments/assets/168a09f4-61ae-43d0-9f03-23965a1c4724" />
+
+<img width="956" height="311" alt="Image" src="https://github.com/user-attachments/assets/8b4cde3a-488d-4ecc-8f73-9fce38db67c8" />
+
+<img width="954" height="351" alt="Image" src="https://github.com/user-attachments/assets/4d199499-e536-4e98-be6c-19e16c4b2cb8" />
